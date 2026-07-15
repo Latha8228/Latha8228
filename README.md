@@ -54,7 +54,8 @@ A Flask web application that analyzes GitHub profiles using the GitHub REST API 
 ### 🌐 Personal Portfolio Website
 A responsive personal portfolio showcasing my projects, technical skills, certifications, and contact information.
 
-###  Hospital Management System 
+### 🏥 Hospital Management System
+Designed and developed a Hospital Management System to efficiently manage patient records, doctor information, appointments, billing, and hospital operations through a user-friendly interface.
 ---
 
 ## 📜 Certifications
