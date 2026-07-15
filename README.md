@@ -48,14 +48,16 @@ I'm a passionate Computer Science student who enjoys building real-world web app
 ### 🤖 Virtual Agent–Driven SLA Breach Awareness & Justification System
 A Flask-based application that predicts SLA breaches, provides automated alerts, and generates AI-based justifications.
 
+### 🏥 Hospital Management System
+Designed and developed a Hospital Management System to efficiently manage patient records, doctor information, appointments, billing, and hospital operations through a user-friendly interface.
+
 ### 🐙 GitHub Profile Analyzer
 A Flask web application that analyzes GitHub profiles using the GitHub REST API and displays repository statistics, language distribution, and profile insights.
 
 ### 🌐 Personal Portfolio Website
 A responsive personal portfolio showcasing my projects, technical skills, certifications, and contact information.
 
-### 🏥 Hospital Management System
-Designed and developed a Hospital Management System to efficiently manage patient records, doctor information, appointments, billing, and hospital operations through a user-friendly interface.
+
 ---
 
 ## 📜 Certifications
