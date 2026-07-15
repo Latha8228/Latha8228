@@ -64,6 +64,8 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 - ⭐ Python (5 Star) – HackerRank
 - Python Basics – HackerRank
+- 🏅 Basic Data Types in Python – HackerRank
+
 
 ---
 
@@ -88,4 +90,6 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+### ⭐ Thank you for visiting my GitHub profile!
+
+I'm always excited to learn new technologies, build meaningful projects, and collaborate with fellow developers.
